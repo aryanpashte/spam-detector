@@ -1,0 +1,11 @@
+# Spam Detection System
+
+This is a simple spam detection program written in C++.
+
+## Features
+- Detects spam messages using keywords
+- Basic filtering logic
+
+## How to Run
+g++ main.cpp -o SpamChecker
+./SpamChecker
